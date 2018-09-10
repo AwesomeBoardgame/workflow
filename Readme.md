@@ -13,7 +13,7 @@ git checkout -b your-branch dev
 * 查看分支树，输出（\*号后为当前分支)：
 ```bash
  git branch
-   your-branch
+ * your-branch
    dev
    master
 ```
