@@ -21,9 +21,14 @@ git checkout -b your-branch dev
 （待补充）
 
 ---
-## 编辑
-
-## 提交
+## 编辑及提交
+编辑工作目录下的文件，并保存，然后在工作目录下执行以下git命令
+```bash
+git add .
+git commit -m "commits of your changes"
+git push -u origin your-branch
+```
+---
 
 ## 申请合并
 
