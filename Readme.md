@@ -1,7 +1,6 @@
 # Workflow
 --------
 ## 克隆/更新分支
----
 ### 本地未有工作目录
 * 克隆代码
 ```bash
@@ -18,7 +17,10 @@ git checkout -b your-branch dev
    dev
    master
 ```
+### 本地已有工作目录
+（待补充）
 
+---
 ## 编辑
 
 ## 提交
