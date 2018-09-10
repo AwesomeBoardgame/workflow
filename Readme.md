@@ -1,7 +1,7 @@
 Workflow
 --------
-## 克隆/更新分支
-本地未有工作目录
+# 克隆/更新分支
+## 本地未有工作目录
 * 克隆代码
 ```bash
 git clone git@github.com:AwesomeBoardgame/workflow.git
