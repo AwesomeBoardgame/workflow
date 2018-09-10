@@ -30,8 +30,12 @@ git push -u origin your-branch
 ```
 ---
 
-## 申请合并
+## 申请合并（Pull Request）
+在github上切换至对应的分支(branch)，然后点击New pull request
 
+在PR页面上选择base分支（上游跟踪分支）及compare分支（你需要申请合并的分支），然后填写合并原因，并通过页面正文的diff对比确认修改，最后点击Create pull request，申请合并至base分支。
+
+管理员将会接收到Pull Request后，确认base分支以及diff无误后，填写confirm原因，并点击Confirm，合并至分支。
 ------
 ## 参考链接
 [git flow的使用](https://www.cnblogs.com/lcngu/p/5770288.html)
