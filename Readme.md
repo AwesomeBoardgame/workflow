@@ -1,7 +1,8 @@
-Workflow
+# Workflow
 --------
-# 克隆/更新分支
-## 本地未有工作目录
+## 克隆/更新分支
+---
+### 本地未有工作目录
 * 克隆代码
 ```bash
 git clone git@github.com:AwesomeBoardgame/workflow.git
@@ -18,12 +19,12 @@ git checkout -b your-branch dev
    master
 ```
 
-# 编辑
+## 编辑
 
-# 提交
+## 提交
 
-# 申请合并
+## 申请合并
 
 ------
-# 参考链接
+## 参考链接
 [git flow的使用](https://www.cnblogs.com/lcngu/p/5770288.html)
